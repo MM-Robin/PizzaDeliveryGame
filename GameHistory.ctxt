@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameHistory
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameHistory\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=GameHistory(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GameHistory\n
+comment2.params=content
+comment2.target=void\ writeHistory(java.lang.String)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=void\ closeWriter()
+numComments=4

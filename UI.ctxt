@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UI
+comment0.text=\n\ Write\ a\ description\ of\ interface\ UI\ here.\n\n\ @author\ (Mainuddin\ Monsur\ Robin)\n\ @version\ (1.0)\n
+comment1.params=game
+comment1.target=UI\ UiStart(Playable)
+comment1.text=\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\n
+comment2.params=
+comment2.target=void\ updateBackground()
+numComments=3

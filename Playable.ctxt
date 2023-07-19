@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Playable
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Playable\ here.\n\n\ @author\ (Mainuddin\ Monsur\ Robin)\n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=Room\ getCurrentRoom()
+comment1.text=\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ the\ result\ produced\ by\ sampleMethod\n
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=java.lang.String\ welcome()
+comment4.params=
+comment4.target=java.lang.String\ getHelp()
+comment5.params=command
+comment5.target=boolean\ processCommand(Command)
+comment6.params=
+comment6.target=java.lang.String\ playerName()
+numComments=7

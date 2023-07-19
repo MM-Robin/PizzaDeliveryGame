@@ -1,0 +1,7 @@
+Pick
+go straight
+go right
+Delivered
+go back
+go back
+Quit
