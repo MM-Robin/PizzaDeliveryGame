@@ -1,0 +1,17 @@
+# Compiled Java classes
+*.class
+
+# BlueJ project files
+*.ctxt
+package.bluej
+
+# IntelliJ / Eclipse
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
